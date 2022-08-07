@@ -1,4 +1,5 @@
-## Food Ordering App
+## Project Name: Tasty Treat
+##This is a Food Ordering App
 
 ### Features:
 
